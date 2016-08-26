@@ -1,4 +1,2 @@
 This text file just or test,
-so this is change 1
-and this is change 2
-lol
+so t
